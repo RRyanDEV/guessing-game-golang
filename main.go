@@ -12,6 +12,7 @@ import (
 func main() {
 	fmt.Println("Welcome to the Guessing Game")
 	fmt.Println("A random number will be drawn. Try to guess correctly. The number will be an integer between 0 and 100.")
+	fmt.Println("You have 10 attempts.")
 
 	x := rand.Int64N(101)
 	scanner := bufio.NewScanner(os.Stdin)

@@ -38,6 +38,10 @@
 
 </a>
 
+### v1.0.1-20250914
+
+- Spelling correction in English and Portuguese.
+
 ### v1.0.0-20250914
 
 - `Official Version of the Guessing Game.`
